@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.row-1 {
+    height: 15vh;
+    width: 100%;
+    background-color: rgb(144, 144, 144);
+
+}
+
+.box-inside-1 {
+    height: 60px;
+    width: 60px;
+    background-color: blue;
+    }
+
+.row-1 {
+    height: 20vh;
+    width: 100%;
+    background-color: orange;
+}
